@@ -1,0 +1,15 @@
+{
+  "name": "node_router",
+  "version": "1.0.0",
+  "description": "My NodeJS  router.",
+  "main": "bin/index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Réka Pap",
+  "license": "ISC"
+}
